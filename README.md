@@ -6,3 +6,15 @@ Links importantes:
 * kind (emulador Kubernetes): https://kind.sigs.k8s.io/
 
 ## Resultados
+
+Utilitário Popeye executado gerando o resultado da análise em stdout:
+
+![Popeye stdout 01](img/popeye-01.png)
+
+![Popeye stdout 02](img/popeye-01.png)
+
+Relatório HTML gerado como resultado de uma análise com o Popeye:
+
+![Popeye Azure Pipelines 01](img/popeye-03.png)
+
+![Popeye Azure Pipelines 02](img/popeye-04.png)
