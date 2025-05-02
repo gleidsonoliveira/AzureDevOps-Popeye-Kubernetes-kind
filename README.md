@@ -5,6 +5,8 @@ Links importantes:
 * Projeto Popeye: https://github.com/derailed/popeye
 * kind (emulador Kubernetes): https://kind.sigs.k8s.io/
 
+Aproveito este espaço para agradecer a meu amigo Daniel Dias Assumpção - @dassump - pela indicação desta excelente ferramenta (Popeye).
+
 ## Resultados
 
 Utilitário Popeye executado gerando o resultado da análise em stdout:
