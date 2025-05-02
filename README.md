@@ -9,14 +9,20 @@ Aproveito este espaço para agradecer a meu amigo [Daniel Dias Assumpção](http
 
 ## Resultados
 
-Utilitário Popeye executado gerando o resultado da análise em stdout:
+Utilitário Popeye executado exibindo os resultados da análise em stdout:
 
 ![Popeye stdout 01](img/popeye-01.png)
 
 ![Popeye stdout 02](img/popeye-01.png)
 
-Relatório HTML gerado como resultado de uma análise com o Popeye:
+Relatório HTML gerado a partir de uma análise com o Popeye:
 
 ![Popeye Azure Pipelines 01](img/popeye-03.png)
 
 ![Popeye Azure Pipelines 02](img/popeye-04.png)
+
+Resultados gerados seguindo o padrão do JUnit e com visualização da análise no Dashboard de testes do Azure Pipelines:
+
+![Popeye JUnit 01](img/popeye-05.png)
+
+![Popeye JUnit 02](img/popeye-06.png)
