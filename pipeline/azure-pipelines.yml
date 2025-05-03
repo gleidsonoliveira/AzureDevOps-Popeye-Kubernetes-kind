@@ -101,3 +101,4 @@ stages:
         testResultsFiles: '**/report-cluster.xml'
       displayName: Publicar resultado no formato do JUNIT (report-cluster.xml)
       condition: always()
+      
